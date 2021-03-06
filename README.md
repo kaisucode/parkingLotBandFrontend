@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## how this works
+git add -A, git commit -m "the message you want to comit", git push
+to update, git pull
+make sure you ran "npm install" the first time you do this!
+All the code is in src
+to run the thing and see it, do "npm start" in terminal (parkingLotBandFrontend) (make sure you're in the right directory)
+to leave, control-C 
+
 ## Available Scripts
 
 In the project directory, you can run:
