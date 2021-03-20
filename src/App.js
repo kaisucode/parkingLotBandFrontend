@@ -42,7 +42,7 @@ function App() {
                       fill= '#5E9EF1'
                       options={{
                           height: 50,
-                          amplitude: 50,
+                          amplitude: 10,
                           speed: 0.4,
                           points: 6,
                           stroke: '#eeeeee',
